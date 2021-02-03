@@ -8,15 +8,12 @@
   - [PlantUML](https://plantuml.com/zh/download)(UML画图工具，支持IDE插件)
   - [Code Style](https://github.com/google/styleguide.git)(Google代码风格规范)
   - [One dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)(编辑器配色)
-- [VSCode](https://code.visualstudio.com/)
+- [VSCode](https://code.visualstudio.com/)(文本编辑器)
+- [tmux](https://github.com/tmux/tmux/wiki)(命令行分屏)
 - [VIM](https://www.vim.org/)
   - [配置](https://github.com/xiebiao/vimer)
   
-## 其他
-
-- [wrk](https://github.com/wg/wrk)(HTTP压测工具)
-
-## 交流工具
+## 交流
 
 - [weechat](https://weechat.org/)(IRC客户端)
 
@@ -26,3 +23,7 @@
 - [tcpdump](https://www.tcpdump.org/manpages/tcpdump.1.html)(网络抓包)
 - [nmap](http://nmap.org)
   - [ncat](https://nmap.org/ncat/guide/index.html)(端口读写，转发)
+
+## 其他
+
+- [wrk](https://github.com/wg/wrk)(HTTP压测工具)
