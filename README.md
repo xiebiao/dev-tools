@@ -16,8 +16,13 @@
 
 - [wrk](https://github.com/wg/wrk)(HTTP压测工具)
 
+## 交流工具
+
+- [weechat](https://weechat.org/)(IRC客户端)
+
 ## 网络分析
 
+- [wireshark](https://www.wireshark.org/#download)(网络抓包)
 - [tcpdump](https://www.tcpdump.org/manpages/tcpdump.1.html)(网络抓包)
 - [nmap](http://nmap.org)
   - [ncat](https://nmap.org/ncat/guide/index.html)(端口读写，转发)
