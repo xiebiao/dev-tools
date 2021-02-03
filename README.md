@@ -6,9 +6,12 @@
 
 - [IDEA社区版](https://www.jetbrains.com/idea/download)
   - [PlantUML](https://plantuml.com/zh/download)(UML画图工具，支持IDE插件)
+  - [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)(AsciiDoc文档插件)
   - [Code Style](https://github.com/google/styleguide.git)(Google代码风格规范)
   - [One dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)(编辑器配色)
 - [VSCode](https://code.visualstudio.com/)(文本编辑器)
+  - [Calva](https://calva.io/ )(Clojure语言插件)
+  - [AsciiDoc](https://asciidoc.org/)(AsciiDoc文档插件)
 - [tmux](https://github.com/tmux/tmux/wiki)(命令行分屏)
 - [VIM](https://www.vim.org/)
   - [配置](https://github.com/xiebiao/vimer)
