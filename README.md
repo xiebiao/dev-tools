@@ -16,6 +16,12 @@
 - [VSCode](https://code.visualstudio.com/)(文本编辑器)
   - [Calva](https://calva.io/ )(Clojure语言插件)
   - [AsciiDoc](https://asciidoc.org/)(AsciiDoc文档插件)
+
+  
+## 命令行
+
+- [zsh](https://www.zsh.org/)
+  - [ohmyzsh配置](https://github.com/ohmyzsh/ohmyzsh)
 - [tmux](https://github.com/tmux/tmux/wiki)(命令行分屏)
 - [VIM](https://www.vim.org/)
   - [配置](https://github.com/xiebiao/vimer)
