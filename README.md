@@ -5,6 +5,7 @@
 ## 字体
 
 - [Ubuntu](https://design.ubuntu.com/font/)(适合编程的字体)
+- [Mono](https://www.jetbrains.com/lp/mono/)
   
 ## IDE
 
