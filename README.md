@@ -28,6 +28,10 @@
   - [配置](https://github.com/xiebiao/vimer)
 - [htop](https://htop.dev/)(命令行进程查看器)
   
+## API文档
+
+- [在线API帮助手册](https://devdocs.io/)
+  
 ## 交流
 
 - [weechat](https://weechat.org/)(IRC客户端)
