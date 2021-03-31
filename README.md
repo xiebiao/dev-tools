@@ -26,7 +26,7 @@
   - [ohmyzsh配置](https://github.com/ohmyzsh/ohmyzsh)
 - [tmux](https://github.com/tmux/tmux/wiki)(命令行分屏)
 - [VIM](https://www.vim.org/)
-  - [配置](https://github.com/xiebiao/vimer)
+  - [配置](https://github.com/xiebiao/vimrc)
 - [htop](https://htop.dev/)(命令行进程查看器)
   
 ## API文档
