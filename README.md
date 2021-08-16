@@ -13,6 +13,7 @@
 - [IDEA社区版](https://www.jetbrains.com/idea/download)
   - [PlantUML](https://plantuml.com/zh/download)(UML画图工具，支持IDE插件)
     - [graphviz](http://www.graphviz.org/)
+	- [C4](https://github.com/plantuml-stdlib/C4-PlantUML)(C4模型架构图:https://c4model.com/)
   - [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)(AsciiDoc文档插件)
   - [Code Style](https://github.com/google/styleguide.git)(Google代码风格规范)
   - [One dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)(编辑器配色)
