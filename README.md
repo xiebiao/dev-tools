@@ -41,6 +41,10 @@
 
 - [在线API帮助手册](https://devdocs.io/)
   
+## 数据库客户端
+
+- [Sequel Ace](https://sequel-ace.com/)
+
 ## 交流
 
 - [weechat](https://weechat.org/)(IRC客户端)
