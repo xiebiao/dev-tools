@@ -11,6 +11,7 @@
 ## IDE
 
 - [IDEA社区版](https://www.jetbrains.com/idea/download)
+  - [Diagrams](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)(https://www.diagrams.net/)
   - [PlantUML](https://plantuml.com/zh/download)(UML画图工具，支持IDE插件)
     - [graphviz](http://www.graphviz.org/)
 	- [C4](https://github.com/plantuml-stdlib/C4-PlantUML)(C4模型架构图:https://c4model.com/)
