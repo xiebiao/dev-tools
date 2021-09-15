@@ -19,6 +19,7 @@
   - [Code Style](https://github.com/google/styleguide.git)(Google代码风格规范)
   - [One dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)(编辑器配色)
 - [VSCode](https://code.visualstudio.com/)(文本编辑器)
+  - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
   - [Calva](https://calva.io/ )(Clojure语言插件)
   - [AsciiDoc](https://asciidoc.org/)(AsciiDoc文档插件)
 
