@@ -1,7 +1,6 @@
 # dev-tools
 
-“工欲善其事，必先利其器”，
-但依赖过多的工具，工具将变成负担。
+“工欲善其事，必先利其器”
 
 ## 字体
 
@@ -13,10 +12,11 @@
 - [IDEA社区版](https://www.jetbrains.com/idea/download)
   - [Diagrams](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)(https://www.diagrams.net/)
   - [PlantUML](https://plantuml.com/zh/download)(UML画图工具，支持IDE插件)
-    - [graphviz](http://www.graphviz.org/)
-	- [C4](https://github.com/plantuml-stdlib/C4-PlantUML)(C4模型架构图:https://c4model.com/)
-	- [PlantUML美化](https://github.com/xuanye/plantuml-style-c4)
-  - [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)(AsciiDoc文档插件)
+  - [graphviz](http://www.graphviz.org/)
+	- [C4+PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML)(C4模型架构图+PlantUML)
+ - [C4模型架构图](https://c4model.com)
+ - [PlantUML美化](https://github.com/xuanye/plantuml-style-c4)
+  - [AsciiDoc插件](https://plugins.jetbrains.com/plugin/7391-asciidoc)
   - [Code Style](https://github.com/google/styleguide.git)(Google代码风格规范)
   - [One dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)(编辑器配色)
 - [VSCode](https://code.visualstudio.com/)(文本编辑器)
@@ -26,7 +26,9 @@
 
 ## 文档撰写
 
-- [Asciidoc](https://asciidoc.org/)
+- [Asciidoc](https://asciidoc.org/)(markdown以外另一种文本文档格式)
+   - [markdown vs asciidoc](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
+- [Asciiflow](https://asciiflow.com/#/)(生成ASCII图形，方便嵌入到其他文本文档中)
 - [PlantUML](https://plantuml.com/zh/download)(类图，流程图，时序图)
 - [MindMap](https://plantuml.com/zh/mindmap-diagram)(思维导图)
 - [excalidraw](https://excalidraw.com)(自由风格头脑风暴)
