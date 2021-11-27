@@ -40,6 +40,7 @@
 - [tmux](https://github.com/tmux/tmux/wiki)(命令行分屏)
 - [VIM](https://www.vim.org/)
   - [配置](https://github.com/xiebiao/vimrc)
+  - [onedark配色](https://github.com/navarasu/onedark.nvim)
 - [htop](https://htop.dev/)(命令行进程查看器)
   
 ## API文档
