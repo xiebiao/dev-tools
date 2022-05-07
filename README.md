@@ -14,6 +14,7 @@
   - [PlantUML](https://plantuml.com/zh/download)(UML画图工具，支持IDE插件)
   - [graphviz](http://www.graphviz.org/)
 	- [C4+PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML)(C4模型架构图+PlantUML)
+  - [Clojure插件](https://github.com/cursive-ide/cursive)
  - [C4模型架构图](https://c4model.com)
  - [PlantUML美化](https://github.com/xuanye/plantuml-style-c4)
   - [AsciiDoc插件](https://plugins.jetbrains.com/plugin/7391-asciidoc)
@@ -21,8 +22,8 @@
   - [One dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)(编辑器配色)
 - [VSCode](https://code.visualstudio.com/)(文本编辑器)
   - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-  - [Calva](https://calva.io/ )(Clojure语言插件)
   - [AsciiDoc](https://asciidoc.org/)(AsciiDoc文档插件)
+  - [Clojure插件](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva)
 
 ## 文档撰写
 
