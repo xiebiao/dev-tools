@@ -36,6 +36,7 @@
 
 ## 命令行
 
+- [bash命令行快速教程](https://github.com/onceupon/Bash-Oneliner)
 - [zsh](https://www.zsh.org/)
   - [ohmyzsh配置](https://github.com/ohmyzsh/ohmyzsh)
 - [tmux](https://github.com/tmux/tmux/wiki)(命令行分屏)
@@ -64,5 +65,6 @@
   - [ncat](https://nmap.org/ncat/guide/index.html)(端口读写，转发)
 
 ## 其他
+
 - [MIT工具使用教程](https://missing-semester-cn.github.io/)
 - [wrk](https://github.com/wg/wrk)(HTTP压测工具)
