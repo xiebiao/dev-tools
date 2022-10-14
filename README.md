@@ -2,11 +2,12 @@
 
 “工欲善其事，必先利其器”
 
-## 字体
+## 编程字体
 
-- [Ubuntu](https://design.ubuntu.com/font/)(适合编程的字体)
+- [Ubuntu](https://design.ubuntu.com/font/)
 - [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
-  
+- [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
 ## IDE
 
 - [IDEA社区版](https://www.jetbrains.com/idea/download)
