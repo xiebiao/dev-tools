@@ -24,4 +24,4 @@ WEB开发
 - [CSS框架](https://cloud.tencent.com/developer/article/2259844)
 - [CSS框架](https://segmentfault.com/a/1190000040718161)
 
-基于[Htmlx](https://htmlx.org) 的框架 [Hotwired](https://hotwired.dev)
+基于[Htmx](https://htmx.org) 的框架 [Hotwired](https://hotwired.dev)
