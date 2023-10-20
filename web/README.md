@@ -37,3 +37,5 @@ WEB开发
 - [CSS框架](https://segmentfault.com/a/1190000040718161)
 
 基于[Htmx](https://htmx.org) 的框架 [Hotwired](https://hotwired.dev)
+
+new
