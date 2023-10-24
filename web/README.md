@@ -38,4 +38,6 @@ WEB开发
 
 基于[Htmx](https://htmx.org) 的框架 [Hotwired](https://hotwired.dev)
 
-new
+## 工具
+
+- [浏览器兼容性查询](https://caniuse.com/)
