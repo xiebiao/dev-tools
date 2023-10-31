@@ -27,6 +27,7 @@ WEB开发
 - 2.[CSS标准](https://www.w3.org/Style/CSS/#specs)
 - 3.[最新CSS草案更新状态](https://drafts.csswg.org/)
 - 4.[最新CSS标准状态](https://www.w3.org/TR/css/)
+- 5.[虽然CSS不再以大版本发布，而是分模块演化，但是CSS3依然是一个成熟的标准](https://www.w3.org/TR/selectors-3/)
 
 - [w3schools-css](https://www.w3schools.com/css/default.asp)
 - [Modern CSS](https://moderncss.dev/)
