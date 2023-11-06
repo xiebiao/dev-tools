@@ -45,6 +45,8 @@
   - [配置](https://github.com/xiebiao/vimrc)
   - [onedark配色](https://github.com/navarasu/onedark.nvim)
 - [htop](https://htop.dev/)(命令行进程查看器)
+- [ripgrep (rg) ripgrep (rg)是grep 命令的替代品](https://github.com/BurntSushi/ripgrep)
+- [find替代品fd](https://github.com/sharkdp/fd)
   
 ## API文档
 
