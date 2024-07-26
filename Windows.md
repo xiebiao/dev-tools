@@ -9,3 +9,4 @@ Windows
 
 - [PowerShell]
  - [命令自动补全](https://github.com/PowerShell/PSReadLine)
+ - [命令行美化](https://juejin.cn/post/7139514254801141791)

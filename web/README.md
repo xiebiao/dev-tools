@@ -19,6 +19,9 @@ WEB开发
 - [Web API接口](https://developer.mozilla.org/zh-CN/docs/Web/API)
   - [文档模型API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API)
 
+## JavaScript依赖管理工具
+
+- [volta](https://docs.volta.sh/guide/getting-started)
 
 ## CSS
 
