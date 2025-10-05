@@ -1,7 +1,5 @@
 # dev-tools
 
-“工欲善其事，必先利其器”
-
 ## 编程字体
 
 - [Ubuntu](https://design.ubuntu.com/font/)
